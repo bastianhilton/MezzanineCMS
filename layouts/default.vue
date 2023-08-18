@@ -56,8 +56,8 @@
           <v-main id="sidebarNav"></v-main>
           <main id="mainSection">
             <slot />
+            <FooterNav />
           </main>
-          <FooterNav />
         </v-layout>
       </v-card>
     </v-main>
