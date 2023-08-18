@@ -27,6 +27,7 @@
       "@fortawesome/vue-fontawesome": "^3.0.2",
       "@mdi/font": "^7.1.96",
       "@meilisearch/instant-meilisearch": "latest",
+      "@octokit/core": "^5.0.0",
       "@sidebase/core": "^0.1.3",
       "@tinymce/tinymce-vue": "latest",
       "@types/graphql": "^14.5.0",

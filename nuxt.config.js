@@ -18,10 +18,6 @@ export default defineNuxtConfig({
     'assets/styles/styles.css',
   ],
 
-  scripts: [
-    {src: 'https://kit.fontawesome.com/5f36ca3a3b.js', crossorigin: 'anonymous'},
-  ],
-
    modules: [
     //'nuxt-graphql-client',
     '@nuxt/content',

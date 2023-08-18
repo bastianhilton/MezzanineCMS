@@ -5,7 +5,7 @@
                 <div class="media-container-row align-center mbr-black">
                     <div class="col-12">
                         <p class="mbr-text mb-0 mbr-fonts-style display-4">
-                            © Copyright {{ new Date().getFullYear() }} — Mezzanine- All Rights Reserved
+                            © Copyright {{ new Date().getFullYear() }} — Mezzanine- All Rights Reserved - Designed by <a href="https://www.sebastianhilton.com">Sebastian Hilton</a>
                         </p>
                     </div>
                 </div>

@@ -24,7 +24,7 @@
                       <div class="card-outer-wrap">
                           <div class="card-wrap p-sm-4">
                               <div class="card-img">
-                                  <span class="mbr-iconfont mbri-setting"></span>
+                                <span><v-icon icon="fas fa-cog" size="x-small"></v-icon></span>
                               </div>
                               <div class="card-box">
                                   
@@ -38,7 +38,7 @@
                       <div class="card-outer-wrap">
                           <div class="card-wrap p-sm-4">
                               <div class="card-img">
-                                  <span class="mbr-iconfont mbri-help"></span>
+                                <span><v-icon icon="fas fa-question-circle" size="x-small"></v-icon></span>
                               </div>
                               <div class="card-box">
                                   
@@ -52,7 +52,7 @@
                       <div class="card-outer-wrap">
                           <div class="card-wrap p-sm-4">
                               <div class="card-img">
-                                  <span class="mbr-iconfont mbri-devices"></span>
+                                <span><v-icon icon="fas fa-mobile-screen-button" size="x-small"></v-icon></span>
                               </div>
                               <div class="card-box">
                                   
@@ -68,7 +68,7 @@
                       <div class="card-outer-wrap">
                           <div class="card-wrap p-sm-4">
                               <div class="card-img">
-                                  <span class="mbr-iconfont mbri-rocket"></span>
+                                <span><v-icon icon="fas fa-rocket" size="x-small"></v-icon></span>
                               </div>
                               <div class="card-box">
                                   
@@ -82,7 +82,7 @@
                       <div class="card-outer-wrap">
                           <div class="card-wrap p-sm-4">
                               <div class="card-img">
-                                  <span class="mbr-iconfont mbri-like"></span>
+                                <span><v-icon icon="fas fa-check" size="x-small"></v-icon></span>
                               </div>
                               <div class="card-box">
                                   
@@ -96,7 +96,7 @@
                       <div class="card-outer-wrap">
                           <div class="card-wrap p-sm-4">
                               <div class="card-img">
-                                  <span class="mbr-iconfont mbri-timer"></span>
+                                <span><v-icon icon="fas fa-clock" size="x-small"></v-icon></span>
                               </div>
                               <div class="card-box">
                                   

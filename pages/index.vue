@@ -11,10 +11,7 @@
           <div class="row">
             <div class="col-md-12 col-lg-6 py-5 m-auto">
               <div class="text-wrap">
-                <h1 class="mbr-section-title mbr-semibold pb-3 align-left mbr-fonts-style title display-2">Creative your
-                  lifestyle
-                  app for audience choice
-                  awards</h1>
+                <h1 class="mbr-section-title mbr-semibold pb-3 align-left mbr-fonts-style title display-2">Powerful, Consistent, Flexible</h1>
                 <h3 class="mbr-section-subtitle align-left align-left mbr-regular pb-3 mbr-fonts-style display-5">
                   Mezzanine is a powerful, consistent, and flexible content management platform. Built using the Django
                   framework, Mezzanine provides a simple yet highly extensible architecture that encourages diving in and
@@ -57,8 +54,8 @@
           <div class="media-container-row">
   
             <div class="card p-3 col-12 col-md-6 col-lg-3">
-              <div class="card-img pb-3">
-                <span class="mbr-iconfont mbri-globe"></span>
+              <div class="card-img pb-7">
+                <span><v-icon icon="fas fa-globe" size="x-small"></v-icon></span>
               </div>
               <div class="card-box">
                 <h4 class="count card-title mbr-fonts-style pt-3 mbr-bold align-center display-2"></h4>
@@ -68,8 +65,8 @@
             </div>
   
             <div class="card p-3 col-12 col-md-6 col-lg-3">
-              <div class="card-img pb-3">
-                <span class="mbr-iconfont mbri-setting"></span>
+              <div class="card-img pb-7">
+                <span><v-icon icon="fas fa-cog" size="x-small"></v-icon></span>
               </div>
               <div class="card-box">
                 <h4 class="count card-title mbr-fonts-style pt-3 mbr-bold align-center display-2"></h4>
@@ -80,8 +77,8 @@
             </div>
   
             <div class="card p-3 col-12 col-md-6 col-lg-3">
-              <div class="card-img pb-3">
-                <span class="mbr-iconfont mbri-rocket"></span>
+              <div class="card-img pb-7">
+                <span><v-icon icon="fas fa-ethernet" size="x-small"></v-icon></span>
               </div>
               <div class="card-box">
                 <h4 class="count card-title mbr-fonts-style pt-3 mbr-bold align-center display-2"></h4>
@@ -92,8 +89,8 @@
             </div>
   
             <div class="card p-3 col-12 col-md-6 col-lg-3">
-              <div class="card-img pb-3">
-                <span class="mbr-iconfont mbri-star"></span>
+              <div class="card-img pb-7">
+                <span><v-icon icon="fas fa-hashtag" size="x-small"></v-icon></span>
               </div>
               <div class="card-box">
                 <h4 class="count card-title mbr-fonts-style pt-3 mbr-bold align-center display-2"></h4>
@@ -129,105 +126,21 @@
             <div class="col-sm-6 col-md-4 card-wrap col-lg-4 col-lg-3">
               <div class="card-block">
                 <div class="image-wrap">
-                  <img src="../assets/images/face1.jpg" alt="">
+                  <img src="../assets/images/stephenmcd.png" alt="">
                 </div>
               </div>
               <div class="card-bottom">
                 <h3 class="mbr-fonts-style mbr-section-title align-center pt-2 display-5">
-                  Brandon Fisher
+                  stephenmcd
                 </h3>
                 <h3 class="mbr-fonts-style mbr-role align-center pt-2 display-4">
-                  <em>Executive Officer</em>
+                  <em>Creator</em>
                 </h3>
                 <div class="social-media align-center">
                   <ul>
                     <li>
-                      <a class="icon-transition" href="https://www.facebook.com/Mobirise">
-                        <span class="mbr-iconfont mbr-black socicon-facebook socicon"></span>
-                      </a>
-                    </li>
-                    <li>
-                      <a class="icon-transition" href="https://twitter.com/mobirise">
-                        <span class="mbr-iconfont mbr-black socicon-twitter socicon"></span>
-                      </a>
-                    </li>
-                    <li>
-                      <a class="icon-transition" href="https://instagram.com/mobirise/">
-                        <span class="mbr-iconfont mbr-black socicon-instagram socicon"></span>
-                      </a>
-                    </li>
-  
-  
-  
-                  </ul>
-                </div>
-              </div>
-            </div>
-            <div class="col-sm-6 col-md-4 card-wrap col-lg-4 col-lg-3">
-              <div class="card-block">
-                <div class="image-wrap">
-                  <img src="../assets/images/face2.jpg" alt="">
-                </div>
-              </div>
-              <div class="card-bottom">
-                <h3 class="mbr-fonts-style mbr-section-title align-center pt-2 display-5">
-                  Brittany Glaser
-                </h3>
-                <h3 class="mbr-fonts-style mbr-role align-center pt-2 display-4">
-                  <em>Financial Officer</em>
-                </h3>
-                <div class="social-media align-center">
-                  <ul>
-                    <li>
-                      <a class="icon-transition" href="https://www.facebook.com/Mobirise">
-                        <span class="mbr-iconfont mbr-black socicon-facebook socicon"></span>
-                      </a>
-                    </li>
-                    <li>
-                      <a class="icon-transition" href="https://twitter.com/mobirise">
-                        <span class="mbr-iconfont mbr-black socicon-twitter socicon"></span>
-                      </a>
-                    </li>
-                    <li>
-                      <a class="icon-transition" href="https://instagram.com/mobirise/">
-                        <span class="mbr-iconfont mbr-black socicon-instagram socicon"></span>
-                      </a>
-                    </li>
-  
-  
-  
-                  </ul>
-                </div>
-              </div>
-            </div>
-            <div class="col-sm-6 col-md-4 card-wrap col-lg-4 col-lg-3">
-              <div class="card-block">
-                <div class="image-wrap">
-                  <img src="../assets/images/face3.jpg" alt="">
-                </div>
-              </div>
-              <div class="card-bottom">
-                <h3 class="mbr-fonts-style mbr-section-title align-center pt-2 display-5">
-                  Bryan Clark
-                </h3>
-                <h3 class="mbr-fonts-style mbr-role align-center pt-2 display-4">
-                  <em>Financial Controller</em>
-                </h3>
-                <div class="social-media align-center">
-                  <ul>
-                    <li>
-                      <a class="icon-transition" href="https://www.facebook.com/Mobirise">
-                        <span class="mbr-iconfont mbr-black socicon-facebook socicon"></span>
-                      </a>
-                    </li>
-                    <li>
-                      <a class="icon-transition" href="https://twitter.com/mobirise">
-                        <span class="mbr-iconfont mbr-black socicon-twitter socicon"></span>
-                      </a>
-                    </li>
-                    <li>
-                      <a class="icon-transition" href="https://instagram.com/mobirise/">
-                        <span class="mbr-iconfont mbr-black socicon-instagram socicon"></span>
+                      <a class="icon-transition" href="https://www.github.com/stephenmcd">
+                        <span class="mbr-iconfont mbr-black fab fa-github socicon"></span>
                       </a>
                     </li>
                   </ul>
@@ -276,4 +189,6 @@
   useHead({
       title: 'Mezzanine',
   })
+
+  //const { data } = await useFetch('https://api.github.com/users/stephenmcd')
 </script>
