@@ -57,6 +57,7 @@
           <main id="mainSection">
             <slot />
           </main>
+          <FooterNav />
         </v-layout>
       </v-card>
     </v-main>
